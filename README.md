@@ -25,6 +25,7 @@
   </p>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8df3447a069b7d5457b4b4d75f9ce2b5ca4c1656816e26afee7a8968e3286a4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b696e792d4b696e79266c61796f75743d636f6d70616374266c616e67735f636f756e743d393939267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/e8df3447a069b7d5457b4b4d75f9ce2b5ca4c1656816e26afee7a8968e3286a4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b696e792d4b696e79266c61796f75743d636f6d70616374266c616e67735f636f756e743d393939267468656d653d7261646963616c" alt="Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lealziim&amp;layout=compact&amp;langs_count=999&amp;theme=radical" style="max-width:100%;"></a>
 <p></p>
+Tô tristão mano :(
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="http://pa1.narvii.com/6465/701d0a65bce221602a072a13cf9b4113a3145ebc_00.gif"><img src="http://pa1.narvii.com/6465/701d0a65bce221602a072a13cf9b4113a3145ebc_00.gif" width="250px" style="max-width:100%;"></a>
 </p>
